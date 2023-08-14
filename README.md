@@ -1,12 +1,6 @@
 # Genletter
 ## To visit Genletter click [here](https://genletter.netlify.app/)
 
-
-## Developed By:
- ➤ [Jaydip Dey](https://github.com/jaydip1235)
-
- ➤ [Archan Banerjee](https://github.com/ArchanJS)
-
  ## About
     Genletter is an website where an user can generate any type of
     letter whether it can be an offer letter, internship letter,
